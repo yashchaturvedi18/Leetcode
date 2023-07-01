@@ -9,7 +9,7 @@
  * }
  */
 
-//Approach : Create two separate lists with larger and lesser values and eventually link them
+//Approach : Create two separate lists with larger and lesser values, and eventually link them
 class PartitionList {
     public ListNode partition(ListNode head, int x) {
 
